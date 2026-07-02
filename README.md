@@ -14,12 +14,17 @@
 ---
 
 ## Images
-<img width="751" height="1600" alt="WhatsApp Image 2026-07-02 at 8 25 42 PM (1)" src="https://github.com/user-attachments/assets/e56e326a-ca24-4ee5-b30a-847d8401cf8d" />
-<img width="754" height="1600" alt="WhatsApp Image 2026-07-02 at 8 25 42 PM" src="https://github.com/user-attachments/assets/d8d39b45-edd8-4da7-bd8f-c918aa175f8f" />
-<img width="757" height="1600" alt="WhatsApp Image 2026-07-02 at 8 25 42 PM (2)" src="https://github.com/user-attachments/assets/0b93a377-28f7-4393-86d2-f8e77530907d" />
-<img width="754" height="1600" alt="WhatsApp Image 2026-07-02 at 8 25 43 PM" src="https://github.com/user-attachments/assets/82c16f55-f942-42a3-bbe1-7ba53dff88df" />
-<img width="752" height="1600" alt="WhatsApp Image 2026-07-02 at 8 25 43 PM (2)" src="https://github.com/user-attachments/assets/9417e003-dd1b-4e10-bfc0-868d8c6f8a41" />
-<img width="755" height="1600" alt="WhatsApp Image 2026-07-02 at 8 25 43 PM (1)" src="https://github.com/user-attachments/assets/9dc1f477-c14e-463c-ab07-dc90e11b20e0" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e56e326a-ca24-4ee5-b30a-847d8401cf8d" width="180"/>
+  <img src="https://github.com/user-attachments/assets/d8d39b45-edd8-4da7-bd8f-c918aa175f8f" width="180"/>
+  <img src="https://github.com/user-attachments/assets/0b93a377-28f7-4393-86d2-f8e77530907d" width="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82c16f55-f942-42a3-bbe1-7ba53dff88df" width="180"/>
+  <img src="https://github.com/user-attachments/assets/9417e003-dd1b-4e10-bfc0-868d8c6f8a41" width="180"/>
+  <img src="https://github.com/user-attachments/assets/9dc1f477-c14e-463c-ab07-dc90e11b20e0" width="180"/>
+</p>
 
 
 
